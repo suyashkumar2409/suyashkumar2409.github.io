@@ -3,34 +3,43 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  {% if page.title %}
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  {% endif %}
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {% if site.posts.size > 0 %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {% assign maxPost = 5 %}
+      {% assign counter = 0 %}
+      {% assign filtered_posts = site.posts | sort:"date" | reverse %}
+      {% for post in filtered_posts %}
       <li>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title }}
           </a>
         </h3>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
         <span class="post-meta">Posted on {{ post.date | date: date_format }}</span>
-        {%- if site.show_excerpts -%}
+        {% if site.show_excerpts %}
           {{ post.excerpt | truncatewords: 50 }}
-        {%- endif -%}
+        {% endif %}
       </li>
-      {%- endfor -%}
+      {% assign counter = counter | plus: 1 %}
+        {% if counter == maxPost %}
+            {% break %} {% comment %}exit the for loop{% endcomment %}
+        {% endif %}
+      {% endfor %}
     </ul>
+
+    <h4><a href="{% link blog.md %}">All Posts</a></h4>
 
     {% if site.rss %}
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
     {% endif %}
-  {%- endif -%}
+  {% endif %}
 
 </div>
