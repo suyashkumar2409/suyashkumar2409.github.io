@@ -32,7 +32,7 @@ rss: false
 #Ad-hoc paths
 adhoc_paths:
   - title: Resume
-    url: assets/resume.pdf
+    url: assets/Resume.pdf
 
 # SubHeadings
 subheadings:
