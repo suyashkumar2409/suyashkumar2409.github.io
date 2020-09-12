@@ -29,6 +29,11 @@ linkedin_username: suyashkumar2409
 show_excerpts: true
 rss: false
 
+#Ad-hoc paths
+adhoc_paths:
+  - title: Resume
+    url: assets/resume.pdf
+
 # SubHeadings
 subheadings:
   - Tech
