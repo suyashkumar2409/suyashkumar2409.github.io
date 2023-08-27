@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
 
-* 2017 - BITS Pilani - Teaching Assistant for Object Oriented Programming.
-* 2019 - Directi - Course Instructor for Clean Code and Data Structures and Algorithms.
-* 2023 - Georgia Tech - Teaching Assistant for Deep Learning.
+* 2017 - <a href="https://en.wikipedia.org/wiki/BITS_Pilani">BITS Pilani</a> - Teaching Assistant for Object Oriented Programming.
+* 2019 - <a href="https://www.media.net/">Directi</a> - Course Instructor for Clean Code and Data Structures and Algorithms.
+* 2022 - Google - Founding President for Google India Toastmasters Club. Helped members get better at <a href="/speaking">public speaking</a>.
+* 2023 - Georgia Tech - Teaching Assistant for <a href="https://omscs.gatech.edu/cs-7643-deep-learning">Deep Learning</a>.

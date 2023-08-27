@@ -44,7 +44,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -104,10 +104,11 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
+calendly: meetsuyash
 
 contact_note: >
-  I am most active on [X](https://twitter.com/hitonikai) and [LinkedIn](https://www.linkedin.com/in/suyashkumar2409/).
-  I selectively accept meetings on my [calendly](https://calendly.com/meetsuyash) subject to a relevant pitch. I will outright reject meetings without a well defined agenda.
+  I am most active on X and LinkedIn.
+  I selectively accept meetings on my calendly subject to a relevant pitch. I will outright reject meetings without a well defined agenda.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,9 +125,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Welcome to Suyash's blog # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Hi, this is Suyash. I use this space to document my thoughts and learnings. I help shape humanity's progress with AI through research and entrepreneurship.
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: Hi, this is Suyash. I plan to use this space to document my thoughts and learnings. I help shape humanity's progress with AI through research and entrepreneurship.
 permalink: /blog/:year/:title/
+
+## -----------------------------------------------------------------------------
+## Quotes
+## -----------------------------------------------------------------------------
+#
+#quotes_name: Quotes # blog_name will be displayed in your blog page
+#quotes_nav_title: Quotes # your blog must have a title for it to be displayed in the nav bar
+#quotes_description: I am pretty dramatic by nature and like coming up with pithy statements and forcing them on the world. (Under Development)
+#quotes_permalink: /quotes/:year/:title/
 
 # Pagination
 pagination:
@@ -181,12 +191,12 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 7 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -266,8 +276,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+#display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+#display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

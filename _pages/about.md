@@ -1,8 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Reason for living - Help shape humanity's progress in technology.
+#credentials: Georgia Tech * Google * BITS Pilani
+subtitle-header: Reason for living
+subtitle: Help shape humanity's progress in technology.
 
 profile:
   align: right
@@ -10,7 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
   
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
