@@ -7,6 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+* 2017 - BITS Pilani - Teaching Assistant for Object Oriented Programming.
+* 2019 - Directi - Course Instructor for Clean Code and Data Structures and Algorithms.
+* 2023 - Georgia Tech - Teaching Assistant for Deep Learning.
