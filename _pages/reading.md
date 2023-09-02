@@ -20,6 +20,8 @@ The following list begins from 28th August 2023 -
 
 **September 2023**
 
-1. [Segment Anything](https://arxiv.org/abs/2304.02643) - Computer Vision - 2nd September 2023
+1. [Language models are few shot learners](https://arxiv.org/abs/2005.14165) - NLP - 1st September 2023
+2. [Training Language models to follow instructions using human feedback](https://arxiv.org/abs/2203.02155) - RL - 2nd September 2023
+3. [Segment Anything](https://arxiv.org/abs/2304.02643) - Computer Vision - 2nd September 2023
 
 
