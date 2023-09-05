@@ -11,17 +11,20 @@ Through the course of my studies and research, I will be reading research papers
 
 The following list begins from 28th August 2023 - 
 
-**August 2023**
-
-1. [QUEST: A Retrieval Dataset of Entity-Seeking Queries with Implicit Set Operations](https://aclanthology.org/2023.acl-long.784/) - NLP - 28th August 2023
-2. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) - CV - 28th August 2023
-3. [IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation Metrics for Indian Languages](https://aclanthology.org/2023.acl-long.795/) - NLP - 29th August 2023
-4. [Llama: Open and Efficient Foundation models](https://arxiv.org/abs/2302.13971) - NLP - 30th August 2023
-
 **September 2023**
 
-1. [Language models are few shot learners](https://arxiv.org/abs/2005.14165) - NLP - 1st September 2023
-2. [Training Language models to follow instructions using human feedback](https://arxiv.org/abs/2203.02155) - RL - 2nd September 2023
-3. [Segment Anything](https://arxiv.org/abs/2304.02643) - Computer Vision - 2nd September 2023
+1. [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - CV - 4th September 2023
+2. [Segment Anything](https://arxiv.org/abs/2304.02643) - Computer Vision - 4th September 2023
+3. [Language Models are Unsupervised Multi-task Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) - NLP - 4th September 2023
+4. [Language models are few shot learners](https://arxiv.org/abs/2005.14165) - NLP - 1st September 2023
+
+
+**August 2023**
+
+1. [Llama: Open and Efficient Foundation models](https://arxiv.org/abs/2302.13971) - NLP - 30th August 2023
+2. [IndicMT Eval: A Dataset to Meta-Evaluate Machine Translation Metrics for Indian Languages](https://aclanthology.org/2023.acl-long.795/) - NLP - 29th August 2023
+3. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) - CV - 28th August 2023
+4. [QUEST: A Retrieval Dataset of Entity-Seeking Queries with Implicit Set Operations](https://aclanthology.org/2023.acl-long.784/) - NLP - 28th August 2023
+
 
 
