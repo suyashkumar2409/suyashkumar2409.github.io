@@ -3,8 +3,6 @@ layout: about
 title: About
 permalink: /
 #credentials: Georgia Tech * Google * BITS Pilani
-subtitle-header: Reason for living
-subtitle: Help shape humanity's progress in technology.
 
 profile:
   align: right
@@ -16,6 +14,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+---
+
+###### **Reason for Living**: Help shape humanity's progress in technology.
 
 I have always loved video games and board games. Playing video games was fun, but it eventually got boring, and I wanted to scale up to a bigger game. Through board games I realised the importance of building your resources, your war chest, in the first half of the game, and then start exploiting in the second half of the game. That is how you win.
 
@@ -47,3 +49,35 @@ There are the following two possibilities -
 2. I die trying, and I wouldn't be alive to know I didn't achieve this. No worries.
 
 In neither will there be any regret, and I would have lived my life to the fullest, in the exact way I wanted to.
+
+---
+
+###### **Reason for Website**: Leave behind a life.
+
+Initially when I made the website, I had no idea why or what it will be.  
+Today I have given more thought into it, and I know what it will be.
+- **Planets Analogy** 
+  - We are the suns of our own solar system, and all the aspects of ourselves are planets that revolve around ourselves.
+  - Every planet that we care about should be a separate, isolated planet, and we must care for each planet, and not let the entire solar system go down, merely because things aren't going well in one or two planets. This builds **resilience**.
+  - Continuing with the planet analogy, this website would represent different aspects of me - the speaker side, the optimizer side, the thinker side, the hobbyist side, the adventurous side. I want to show all expects of myself.
+
+- **Self Expression**
+  - For the longest time, I believed that my life wasn't important enough to be documented. 
+  - As a consequence of this, I didn't bother so much with taking photos, writing entries, putting it out in the world, and in general creating or producing things in the wild. 
+  - **I value my life** _a lot more_ now, and want to produce a lot more, but I think a singular platform like X or Instagram is too restrictive. 
+  - I want this website as my space of pure freedom of speech and expression, because I matter, and my style is unique.
+- **Networking** 
+  - This is my **brand**, the website that helps people understand who I am. 
+  - It is a one-stop look into who I am and how I think. It helps develop a quick initial impressions of me and whether it would be interesting to talk to me. 
+  - It should get interesting people to reach out to me.
+  - It should also filter out people with less of a mutual fit.
+- **Edification** 
+  - I want to evolve a **philosophy**. 
+  - Ultimately I believe that everyone is optimizing for something. 
+  - Every action that I take is a step towards optimizing for freedom and seeking the most fun game possible.
+  - With that philosophy in mind I want to maintain this website, as a record of my path to complete freedom. 
+  - This wesbite is a memorabilia for how such a life could materialize.
+
+---
+
+

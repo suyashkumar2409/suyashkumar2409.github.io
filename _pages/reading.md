@@ -4,7 +4,7 @@ permalink: /reading/
 title: Reading
 description: I have committed to reading a lot of papers on a daily basis. I shall be maintaining a timestamped list here.
 nav: true
-nav_order: 6
+nav_order: 1
 ---
 
 Through the course of my studies and research, I will be reading research papers on a daily basis, from the fields of CV, NLP, RL and ML for the most part. I plan to regularly update this list with the paper name, link and type for fun. If a particular paper really moves me (and if I have sufficient time) I shall write my thoughts on it as a blog post as well. 

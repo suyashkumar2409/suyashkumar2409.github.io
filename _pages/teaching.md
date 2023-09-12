@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: "The best way to learn something is to pretend to teach."
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 

@@ -4,7 +4,7 @@ permalink: /speaking/
 title: Speaking
 description: No individual should ever be hindered from expression due to the fear of public speaking!
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 I am an avid public speaker, and I believe that to truly present your work to the world, this is a must-have skill, virtually unimaginable to not have in the fields of research and entrepreneurship to be truly successful. 
