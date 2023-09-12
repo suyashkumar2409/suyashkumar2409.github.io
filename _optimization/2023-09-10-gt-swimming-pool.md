@@ -23,4 +23,4 @@ I wrote a [script](https://github.com/suyashkumar2409/gt-swimming-script) that "
 
 ##### [Add to your Calendar!](https://calendar.google.com/calendar/embed?src=c_cj683qvp827kgn759pj4sth5d0%40group.calendar.google.com&ctz=America%2FNew_York). 
 
-No longer bother to check swimming availability times on the [CRC website](https://www.crc.gatech.edu/aquatics/hours).
+You no longer need to go all the way to the [website](https://www.crc.gatech.edu/aquatics/hours) to check swimming availability times.
