@@ -52,8 +52,8 @@
                 </a>
               </li>
 
-              {% if site.abstract_thoughts_nav_title %}
-              <!-- Abstract Thoughts -->
+             <!-- {% if site.abstract_thoughts_nav_title %}
+              &lt;!&ndash; Abstract Thoughts &ndash;&gt;
               <li class="nav-item {% if page.url contains 'abstract' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/abstract/' | relative_url }}">{{ site.abstract_thoughts_nav_title }}
                   {%- if page.url contains 'abstract-thoughts' -%}
@@ -65,7 +65,7 @@
 
               {% if site.fun_nav_title %}
 
-              <!-- Fun -->
+              &lt;!&ndash; Fun &ndash;&gt;
               <li class="nav-item {% if page.url contains 'fun' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/fun/' | relative_url }}">{{ site.fun_nav_title }}
                   {%- if page.url contains 'fun' -%}
@@ -73,7 +73,7 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
+              {%- endif %}-->
 
               {% if site.optimization_nav_title %}
               <!-- Optimization -->
@@ -86,16 +86,16 @@
               </li>
               {%- endif %}
 
-              {% if site.tech_nav_title %}
-              <!-- Tech -->
-              <li class="nav-item {% if page.url contains 'tech' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/tech/' | relative_url }}">{{ site.tech_nav_title }}
-                  {%- if page.url contains 'tech' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
-              </li>
-              {%- endif %}
+<!--              {% if site.tech_nav_title %}-->
+<!--              &lt;!&ndash; Tech &ndash;&gt;-->
+<!--              <li class="nav-item {% if page.url contains 'tech' %}active{% endif %}">-->
+<!--                <a class="nav-link" href="{{ '/tech/' | relative_url }}">{{ site.tech_nav_title }}-->
+<!--                  {%- if page.url contains 'tech' -%}-->
+<!--                  <span class="sr-only">(current)</span>-->
+<!--                  {%- endif -%}-->
+<!--                </a>-->
+<!--              </li>-->
+<!--              {%- endif %}-->
 
 
 
